@@ -117,7 +117,7 @@ yarn
     sudo docker-compose start
     ```
 
-4. To stop container execution, and will remove stopped containers
+4. To stop container execution, and will remove stopped containers.
 
     ```shell
     docker-compose down
